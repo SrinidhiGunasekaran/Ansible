@@ -1,0 +1,2 @@
+[testserver]
+65.0.106.226 ansible=ec2-user
